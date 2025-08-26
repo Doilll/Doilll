@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Tandur](https://github.com/Doilll/tandur)<br>🌱 I’m currently learning **Data with Python, Microcontroller esp32**<br>👨‍💻 Here's my personal website portofolio [my-personal-portofolio](https://fadhoil.netlify.app/)<br>📫 How to reach me ahmdfadhoil57@gmail.com<br>⚡ My Phylosophy in this economy Innovate or Die
+🔭 I’m currently working on [E-commerce app](https://github.com/FlyHigh404/regarmart-ecommerce)<br>🌱 I’m currently learning **Data with Python, Microcontroller esp32**<br>👨‍💻 Here's my personal website portofolio [my-personal-portofolio](https://fadhoil.netlify.app/)<br>📫 How to reach me ahmdfadhoil57@gmail.com<br>⚡ My Phylosophy in this economy Innovate or Die
 
 
 ## 🌐 Socials:
