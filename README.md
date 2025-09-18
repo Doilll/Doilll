@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [E-commerce app](https://github.com/FlyHigh404/regarmart-ecommerce)<br>🌱 I’m currently learning **Data with Python, Microcontroller esp32**<br>👨‍💻 Here's my personal website portofolio [my-personal-portofolio](https://fadhoil.netlify.app/)<br>📫 How to reach me ahmdfadhoil57@gmail.com<br>⚡ My Phylosophy in this economy Innovate or Die
-
+🔭 I’m currently working on [E-commerce app](https://github.com/FlyHigh404/regarmart-ecommerce)<br>🌱 I’m currently learning **Data with Python, Microcontroller esp32**<br>👨‍💻 Here's my personal website portofolio [my-personal-portofolio](https://fadhoil.netlify.app/)<br>📫 How to reach me ahmdfadhoil57@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadhoilahmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-fadhoil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmdfadhoil57@gmail.com) 
